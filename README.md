@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Your GitHub stats](https://github-readme-stats-4e3u2db4i-moses-projects-187d8ada.vercel.app/api/top-langs/api?username=myang1220&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=myang1220&show_icons=true&theme=radical)
 
 
 <!--
