@@ -11,7 +11,7 @@ Feel free to reach out to me at <moses_yang@brown.edu>, or check out my [LinkedI
 
 ## Tools & Technologies 🛠️
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=myang1220&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=myang1220&theme=radical&show_icons=true&layout=compact)
 
 ### Languages
 Java, Python, C/C++, JavaScript, TypeScript, HTML/CSS, R
