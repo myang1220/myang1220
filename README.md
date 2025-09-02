@@ -6,7 +6,7 @@
   - learning more about computer systems and fullstack development 💻
   - looking to explore more in AI and ML! 🤖
 
-Feel free to reaach out to me at <moses_yang@brown.edu>, or check out my socials: <br>
+Feel free to reach out to me at <moses_yang@brown.edu>, or check out my socials: <br>
 
 ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mosesyyang/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myang_23)
