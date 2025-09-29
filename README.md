@@ -1,10 +1,10 @@
 # 💫About Me :
-- I'm a Sophomore studying Computer Science at Brown University 🤎
+- I'm a Junior studying Computer Science at Brown University 🤎
 - I'm currently...
   - developing websites with FullStack@Brown
+  - doing backend work for a startup with other Brown students
   - teaching CS curriculum to Providence middle schoolers with IgniteCS 🔥
   - learning more about computer systems and fullstack development 💻
-  - looking to explore more in AI and ML! 🤖
 
 Feel free to reach out to me at <moses_yang@brown.edu>, or check out my socials: <br>
 
